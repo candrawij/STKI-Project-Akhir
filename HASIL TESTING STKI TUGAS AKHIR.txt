@@ -1,0 +1,5 @@
+HASIL TESTING STKI TUGAS AKHIR
+
+1. stemming kata masih belum membaca kata-kata kompleks atau frasa seperti 'dataran tinggi' dan sebagainya.
+2. pencarian menurut nama tempat masih kurang sesuai kalau pencarian di query lainnya masih merupakan kata yang relevan di daerah lain, contoh 'daerah sejuk di Jateng', tapi jika di DIY juga ada 'daerah sejuk' maka akan ditampilkan juga.
+3. pencarian jawa tengah harus ditulis 'jateng', dan jogja harus ditulis 'DIY'.
