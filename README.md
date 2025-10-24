@@ -12,22 +12,22 @@ Sistem ini memastikan **ranking** hasil bukan hanya karena kata kunci ditemukan 
 
 ## 2. 🛠️ Metodologi dan Algoritma
 
-### 2.1. Term Weighting & Indexing (TF-IDF)
+* 2.1. Term Weighting & Indexing (TF-IDF)
 
-* **Bobot:** Setiap term (kata dasar) diberi bobot **TF-IDF**, di mana nilai ini menjadi elemen vektor.
+    -  **Bobot:** Setiap term (kata dasar) diberi bobot **TF-IDF**, di mana nilai ini menjadi elemen vektor.
     $$\text{W}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)$$
-* **Indexing:** **Inverted Index** dibangun dengan struktur **Linked List** di mana setiap *node* menyimpan bobot TF-IDF ($\text{W}(t, d)$).
+    -  **Indexing:** **Inverted Index** dibangun dengan struktur **Linked List** di mana setiap *node* menyimpan bobot TF-IDF ($\text{W}(t, d)$).
 
-### 2.2. Ranking (VSM)
+* 2.2. Ranking (VSM)
 
-* **Pencocokan:** Relevansi dihitung menggunakan **Dot Product** (simulasi Cosine Similarity) antara vektor *query* yang sudah dibobot dan vektor dokumen.
-* **Output:** Tempat kemah diurutkan dari skor relevansi tertinggi ke terendah.
+    -  **Pencocokan:** Relevansi dihitung menggunakan **Dot Product** (simulasi Cosine Similarity) antara vektor *query* yang sudah dibobot dan vektor dokumen.
+    -  **Output:** Tempat kemah diurutkan dari skor relevansi tertinggi ke terendah.
 
-### 2.3. Preprocessing Bahasa Indonesia ✨
+* 2.3. Preprocessing Bahasa Indonesia ✨
 
-Digunakan untuk menormalisasi teks ulasan:
-* **Stop Word Removal:** Filter kata-kata umum (menggunakan `nltk` Bahasa Indonesia).
-* **Stemming:** Konversi kata berimbuhan ke kata dasar (misalnya, *berkemah* $\rightarrow$ *kemah*) menggunakan **Sastrawi**.
+    Digunakan untuk menormalisasi teks ulasan:
+    -  **Stop Word Removal:** Filter kata-kata umum (menggunakan `nltk` Bahasa Indonesia).
+    -  **Stemming:** Konversi kata berimbuhan ke kata dasar (misalnya, *berkemah* $\rightarrow$ *kemah*) menggunakan **Sastrawi**.
 
 ***
 
@@ -46,18 +46,18 @@ pip install Sastrawi
 
 ## 4. 🚀 Cara Menjalankan Engine
 
-### 4.1. Clone Repositori ke lingkungan kerja Anda.
+* 4.1. Clone Repositori ke lingkungan kerja Anda.
 
-### 4.2. Pastikan Data Ada: File korpus (``corpus_kemah_jateng_diy - Sheet1.csv``) harus tersedia.
+* 4.2. Pastikan Data Ada: File korpus (`corpus_kemah_jateng_diy - Sheet1.csv`) harus tersedia.
 
-### 4.3. Eksekusi Kode: Jalankan seluruh script Python VSM.
+* 4.3. Eksekusi Kode: Jalankan seluruh script Python VSM.
 
-### 4.4. Interaksi: Setelah indexing selesai, sistem akan otomatis masuk ke Loop Pencarian Interaktif:
+* 4.4. Interaksi: Setelah indexing selesai, sistem akan otomatis masuk ke Loop Pencarian Interaktif:
 ```
 Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
 ```
-* Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
-* Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+- Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
+- Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
 
 ## 5. 🔍 Contoh Hasil Ranking
 
