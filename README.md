@@ -56,8 +56,8 @@ pip install Sastrawi
 ```
 Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
 ```
-- Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
-- Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+    - Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
+    - Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
 
 ## 5. 🔍 Contoh Hasil Ranking
 
@@ -65,9 +65,8 @@ Output menampilkan 5 rekomendasi teratas yang ulasannya paling relevan dengan *q
 
 | Rank | Nama Tempat | Lokasi | Avg Rating | VSM Score (Relevansi) |
 | :---: | :--- | :---: | :---: | :---: |
-| 1 | Kuncen Camp Ground | Kab. Semarang, Jateng | 4.90 | 0.9874 |
-| 2 | Gunung Prau Via Patak Banteng | Wonosobo, Jateng | 4.85 | 0.8123 |
-| 3 | Sawah Padi Camp | Sleman, DIY | 4.50 | 0.7709 |
+| 1 | Camp Ground | Gunungkidul, DIY | 4.70 | 2.8865 |
+| 2 | Camping Umbul Sidomukti | Kab. Semarang, Jateng | 4.60 | 1.4929 |
 
 ## 6. 🧑‍💻 Kontributor
 
