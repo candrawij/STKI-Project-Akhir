@@ -1,4 +1,4 @@
-Proyek Akhir Sistem Temu Kembali Informasi (STKI)
+# Proyek Akhir Sistem Temu Kembali Informasi (STKI)
 **Rekomendasi Tempat Kemah Berbasis Ulasan Menggunakan Vector Space Model (VSM)**
 
 ## 1. 💡 Deskripsi Proyek
