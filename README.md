@@ -1,7 +1,7 @@
 # Proyek Akhir Sistem Temu Kembali Informasi (STKI)
 **Rekomendasi Tempat Kemah Berbasis Ulasan Menggunakan Vector Space Model (VSM)**
 
-1. 💡 ##*Deskripsi Proyek*
+1. ##💡 *Deskripsi Proyek*
 Proyek ini adalah implementasi dari Vector Space Model (VSM) sebagai mesin pencari rekomendasi. Tujuannya adalah membantu pengguna menemukan tempat kemah terbaik di wilayah Jawa Tengah (Jateng) dan Daerah Istimewa Yogyakarta (DIY) berdasarkan relevansi ulasan yang ada.Sistem ini tidak hanya mencari kata kunci, tetapi juga memberikan bobot pada kata-kata penting (Term Weighting menggunakan TF-IDF) untuk menghasilkan urutan rekomendasi yang paling akurat dan sesuai dengan query pengguna.
 
 2. 🛠️ ##*Metodologi dan Fitur Utama*
