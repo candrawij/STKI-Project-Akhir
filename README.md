@@ -1,6 +1,6 @@
 # 🏕️ Proyek STKI: Rekomendasi Tempat Kemah VSM
 
-![Proyek VSM](https://picsum.photos/900/350/?blur=1)
+![Proyek VSM]([https://picsum.photos/900/350/?blur=1](https://akcdn.detik.net.id/community/media/visual/2020/05/22/fc03c424-a754-4a91-9277-3db8715a3153_169.jpeg?w=700&q=90))
 
 ***
 [![Status](https://img.shields.io/badge/Status-Selesai-brightgreen)]()
