@@ -1,10 +1,5 @@
-# 🏕️ Proyek STKI: Rekomendasi Tempat Kemah VSM
-
-![Proyek VSM]([https://picsum.photos/900/350/?blur=1](https://akcdn.detik.net.id/community/media/visual/2020/05/22/fc03c424-a754-4a91-9277-3db8715a3153_169.jpeg?w=700&q=90))
-
-***
-[![Status](https://img.shields.io/badge/Status-Selesai-brightgreen)]()
-[![Python](https://img.shields.io/badge/Language-Python%203.11+-blue)]()
+Proyek Akhir Sistem Temu Kembali Informasi (STKI)
+**Rekomendasi Tempat Kemah Berbasis Ulasan Menggunakan Vector Space Model (VSM)**
 
 ## 1. 💡 Deskripsi Proyek
 
@@ -44,3 +39,32 @@ Proyek ini membutuhkan *library* berikut. Direkomendasikan dijalankan di Google 
 pip install pandas
 pip install nltk
 pip install Sastrawi
+```
+
+***
+
+## 4. 🚀 Cara Menjalankan Engine
+
+### 4.1. Clone Repositori ke lingkungan kerja Anda.
+### 4.2. Pastikan Data Ada: File korpus (`corpus_kemah_jateng_diy - Sheet1.csv`) harus tersedia.
+### 4.3. Eksekusi Kode: Jalankan seluruh script Python VSM.
+### 4.4. Interaksi: Setelah indexing selesai, sistem akan otomatis masuk ke Loop Pencarian Interaktif:
+Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
+```
+Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
+```
+Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+
+## 5. 🔍 Contoh Hasil Ranking
+
+Output menampilkan 5 rekomendasi teratas yang ulasannya paling relevan dengan *query*.
+
+| Rank | Nama Tempat | Lokasi | Avg Rating | VSM Score (Relevansi) |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Kuncen Camp Ground | Kab. Semarang, Jateng | 4.90 | 0.9874 |
+| 2 | Gunung Prau Via Patak Banteng | Wonosobo, Jateng | 4.85 | 0.8123 |
+| 3 | Sawah Padi Camp | Sleman, DIY | 4.50 | 0.7709 |
+
+## 6. 🧑‍💻 Kontributor
+
+Nama: [ANDA]NIM: [ANDA]Mata Kuliah: Sistem Temu Kembali Informasi (STKI)
