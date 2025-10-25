@@ -1,14 +1,13 @@
 location_term,region_code,Level
-jawa tengah,jawatengah,Provinsi
-jateng,jawatengah,Provinsi
-jawatengah,jawatengah,Provinsi
-jawa,jawatengah,Provinsi
+jawa tengah,jawa tengah,Provinsi
+jateng,jawa tengah,Provinsi
+jawatengah,jawa tengah,Provinsi
 diy,diy,Provinsi
 yogyakarta,diy,Provinsi
 jogja,diy,Provinsi
 jogjakarta,diy,Provinsi
 semarang,semarang,Kabupaten/Kota
-kab semarang,kabsemarang,Kabupaten/Kota
+kab semarang,semarang,Kabupaten/Kota
 banyumas,banyumas,Kabupaten/Kota
 baturaden,banyumas,Kabupaten/Kota
 gunungkidul,gunungkidul,Kabupaten/Kota
@@ -23,3 +22,8 @@ karang anyar,karanganyar,Kabupaten/Kota
 banjarnegara,banjarnegara,Kabupaten/Kota
 banjar,banjarnegara,Kabupaten/Kota
 jepara,jepara,Kabupaten/Kota
+wonosobo,wonosobo,Kabupaten/Kota
+kulon progo,kulonprogo,Kabupaten/Kota
+kulonprogo,kulonprogo,Kabupaten/Kota
+kudus,kudus,Kabupaten/Kota
+karimun jawa,karimunjawa,Tempat

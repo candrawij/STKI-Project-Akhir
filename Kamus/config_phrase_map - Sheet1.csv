@@ -5,6 +5,7 @@ wc,kamarmandi,Fasilitas
 air terjun,airterjun,Geografis
 tempat kemah,tempatkemah,Geografis
 tempat camping,tempatkemah,Geografis
+pemandangan bagus,pemandanganindah,Suasana
 pemandangan indah,pemandanganindah,Suasana
 view bagus,pemandanganindah,Suasana
 akses jalan,aksesjalan,Fasilitas
@@ -28,6 +29,15 @@ pohon pohon,pepohonan,Geografis
 pepohonan,pepohonan,Geografis
 kemping,camping,Perbaikan Kata
 bgt,banget,Perbaikan Kata
-pol,sangat,Perbaikan Kata
+poll,sangat,Perbaikan Kata
 shg,sehingga,Perbaikan Kata
 lbh,lebih,Perbaikan Kata
+krg,kurang,Perbaikan Kata
+sdh,sudah,Perbaikan Kata
+krn,karena,Perbaikan Kata
+utk,untuk,Perbaikan Kata
+kalo ,kalau,Perbaikan Kata
+klo,kalau,Perbaikan Kata
+½,setengah,Perbaikan Kata
+ga,tidak,Perbaikan Kata
+htm,harga,Perbaikan Kata
