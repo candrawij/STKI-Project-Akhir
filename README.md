@@ -53,11 +53,15 @@ pip install Sastrawi
 * 4.3. Eksekusi Kode: Jalankan seluruh script Python VSM.
 
 * 4.4. Interaksi: Setelah indexing selesai, sistem akan otomatis masuk ke Loop Pencarian Interaktif:
-```
+  
+`    
 Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
-```
-    - Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
-    - Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+` 
+
+- Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
+- Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+
+***
 
 ## 5. 🔍 Contoh Hasil Ranking
 
@@ -68,8 +72,10 @@ Output menampilkan 5 rekomendasi teratas yang ulasannya paling relevan dengan *q
 | 1 | Camp Ground | Gunungkidul, DIY | 4.70 | 2.8865 |
 | 2 | Camping Umbul Sidomukti | Kab. Semarang, Jateng | 4.60 | 1.4929 |
 
+***
+
 ## 6. 🧑‍💻 Kontributor
 
 * Nama         :  Candra Wijayanto
-* NIM          :  A11.2023.15419]
+* NIM          :  A11.2023.15419
 * Mata Kuliah  :  Sistem Temu Kembali Informasi (STKI)
