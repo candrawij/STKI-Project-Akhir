@@ -8,8 +8,6 @@ Proyek ini mengimplementasikan **Vector Space Model (VSM)** sebagai mesin pencar
 
 Sistem ini memastikan **ranking** hasil bukan hanya karena kata kunci ditemukan (Boolean), tetapi karena ulasan tersebut secara statistik paling penting (bobot TF-IDF tertinggi) untuk *query* pengguna.
 
-***
-
 ## 2. 🛠️ Metodologi dan Algoritma
 
 * 2.1. Term Weighting & Indexing (TF-IDF)
@@ -29,8 +27,6 @@ Sistem ini memastikan **ranking** hasil bukan hanya karena kata kunci ditemukan 
     -  **Stop Word Removal:** Filter kata-kata umum (menggunakan `nltk` Bahasa Indonesia).
     -  **Stemming:** Konversi kata berimbuhan ke kata dasar (misalnya, *berkemah* $\rightarrow$ *kemah*) menggunakan **Sastrawi**.
 
-***
-
 ## 3. ⚙️ Kebutuhan dan Instalasi
 
 Proyek ini membutuhkan *library* berikut. Direkomendasikan dijalankan di Google Colab.
@@ -41,8 +37,6 @@ pip install pandas
 pip install nltk
 pip install Sastrawi
 ```
-
-***
 
 ## 4. 🚀 Cara Menjalankan Engine
 
