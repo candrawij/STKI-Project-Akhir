@@ -1,0 +1,33 @@
+Phrase,Token,Kategori
+kamar mandi,kamarmandi,Fasilitas
+toilet,kamarmandi,Fasilitas
+wc,kamarmandi,Fasilitas
+air terjun,airterjun,Geografis
+tempat kemah,tempatkemah,Geografis
+tempat camping,tempatkemah,Geografis
+pemandangan indah,pemandanganindah,Suasana
+view bagus,pemandanganindah,Suasana
+akses jalan,aksesjalan,Fasilitas
+harga terjangkau,hargaterjangkau,Fasilitas
+murah,hargaterjangkau,Fasilitas
+dataran tinggi,datarantinggi,Geografis
+dataran rendah,dataranrendah,Geografis
+hutan pinus,hutanpinus,Geografis
+tempat parkir,tempatparkir,Fasilitas
+tidak direkomendasikan,tidakrekomen,Negasi
+kurang direkomendasikan,tidakrekomen,Negasi
+tidak rekomen,tidakrekomen,Negasi
+kurang rekomen,tidakrekomen,Negasi
+tidak bagus,tidakbagus,Negasi
+kurang bagus,kurangbagus,Negasi
+tidak bersih,tidakbersih,Negasi
+kurang bersih,kurangbersih,Negasi
+tidak ramah,tidakramah,Negasi
+jangan ke sini,jangankesini,Negasi
+pohon pohon,pepohonan,Geografis
+pepohonan,pepohonan,Geografis
+kemping,camping,Perbaikan Kata
+bgt,banget,Perbaikan Kata
+pol,sangat,Perbaikan Kata
+shg,sehingga,Perbaikan Kata
+lbh,lebih,Perbaikan Kata

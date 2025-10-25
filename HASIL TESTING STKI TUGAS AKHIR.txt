@@ -1,13 +1,26 @@
-HASIL TESTING STKI TUGAS AKHIR -- 1.2
+HASIL TESTING STKI TUGAS AKHIR 
 
-- belum menampilkan semua rekomendasi
 - penambahan region map dan phrase map harus dilakukan manual, karna bersifat semantik
+- pencarian di jawa tengah bermasalah
 
 
-Note :
-
-- Hasil region map ada setelah 2. definisi fungsi helper, untuk maintenance jika mau ditambahkan daerah lain perlu ditambah juga untuk pemetaan daerah yang sesuai, termasuk jika ingin berupa kabupaten atau kecamatan, tidak hanya pencarian berdasarkan provinsi.
-
-- Hasil phrase map ada sebelum 2. definisi fungsi helper, phrasa harus diupdate berkala jika ditemukan kata yang kurang sesuai.
-
+1.2
+- Hasil region map (ada setelah 2. definisi fungsi helper) untuk maintenance jika mau ditambahkan daerah lain perlu ditambah juga untuk pemetaan daerah yang sesuai, termasuk jika ingin berupa kabupaten atau kecamatan, tidak hanya pencarian berdasarkan provinsi.
+- Hasil phrase map (ada sebelum 2. definisi fungsi helper) phrasa harus diupdate berkala jika ditemukan kata yang kurang sesuai.
 - Penambahan korpus di sheet3
+
+1.3
+- korpus berada di folder terpisah
+- penambahan folder baru bernama kamus yang berisi pemetaan frasa, region dan special intent
+- perbaikan di fitur intent ALL, sudah bisa menampilkan semua tempat kemah yang sesuai
+- penambahan fitur negasi
+- perbaikan rating top dan bottom
+
+
+RENCANA
+- pembuatan website
+- memberikan link lokasi gmaps
+- perangkingan harga dan menampilkan harga
+- pemberitahuan fasilitas yang diberikan
+- tanggal terakhir review
+- frekuensi dari baik, cukup, buruk
