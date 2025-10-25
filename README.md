@@ -8,6 +8,8 @@ Proyek ini mengimplementasikan **Vector Space Model (VSM)** sebagai mesin pencar
 
 Sistem ini memastikan **ranking** hasil bukan hanya karena kata kunci ditemukan (Boolean), tetapi karena ulasan tersebut secara statistik paling penting (bobot TF-IDF tertinggi) untuk *query* pengguna.
 
+***
+
 ## 2. 🛠️ Metodologi dan Algoritma
 
 * 2.1. Term Weighting & Indexing (TF-IDF)
@@ -27,6 +29,8 @@ Sistem ini memastikan **ranking** hasil bukan hanya karena kata kunci ditemukan 
     -  **Stop Word Removal:** Filter kata-kata umum (menggunakan `nltk` Bahasa Indonesia).
     -  **Stemming:** Konversi kata berimbuhan ke kata dasar (misalnya, *berkemah* $\rightarrow$ *kemah*) menggunakan **Sastrawi**.
 
+***
+
 ## 3. ⚙️ Kebutuhan dan Instalasi
 
 Proyek ini membutuhkan *library* berikut. Direkomendasikan dijalankan di Google Colab.
@@ -37,6 +41,8 @@ pip install pandas
 pip install nltk
 pip install Sastrawi
 ```
+
+***
 
 ## 4. 🚀 Cara Menjalankan Engine
 
@@ -50,8 +56,11 @@ pip install Sastrawi
 ```
 Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
 ```
+`
     - Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
     - Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+
+***
 
 ## 5. 🔍 Contoh Hasil Ranking
 
@@ -62,8 +71,10 @@ Output menampilkan 5 rekomendasi teratas yang ulasannya paling relevan dengan *q
 | 1 | Camp Ground | Gunungkidul, DIY | 4.70 | 2.8865 |
 | 2 | Camping Umbul Sidomukti | Kab. Semarang, Jateng | 4.60 | 1.4929 |
 
+***
+
 ## 6. 🧑‍💻 Kontributor
 
 * Nama         :  Candra Wijayanto
-* NIM          :  A11.2023.15419]
+* NIM          :  A11.2023.15419
 * Mata Kuliah  :  Sistem Temu Kembali Informasi (STKI)
