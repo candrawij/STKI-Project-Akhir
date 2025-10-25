@@ -53,6 +53,7 @@ pip install Sastrawi
 * 4.3. Eksekusi Kode: Jalankan seluruh script Python VSM.
 
 * 4.4. Interaksi: Setelah indexing selesai, sistem akan otomatis masuk ke Loop Pencarian Interaktif:
+  
 ``
 Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
 ``
