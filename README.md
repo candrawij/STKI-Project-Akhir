@@ -58,8 +58,8 @@ pip install Sastrawi
 Masukkan kata kunci pencarian (atau ketik 'keluar' untuk berhenti):
 ` 
 
-- Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
-- Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
+-- Masukkan kata kunci (misalnya, toilet bersih) dan tekan Enter.
+-- Ketik ya untuk melanjutkan pencarian, atau tidak untuk mengakhiri.
 
 ***
 
