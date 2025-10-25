@@ -1,5 +1,13 @@
-HASIL TESTING STKI TUGAS AKHIR
+HASIL TESTING STKI TUGAS AKHIR -- 1.2
 
-1. stemming kata masih belum membaca kata-kata kompleks atau frasa seperti 'dataran tinggi' dan sebagainya.
-2. pencarian menurut nama tempat masih kurang sesuai kalau pencarian di query lainnya masih merupakan kata yang relevan di daerah lain, contoh 'daerah sejuk di Jateng', tapi jika di DIY juga ada 'daerah sejuk' maka akan ditampilkan juga.
-3. pencarian jawa tengah harus ditulis 'jateng', dan jogja harus ditulis 'DIY'.
+- belum menampilkan semua rekomendasi
+- penambahan region map dan phrase map harus dilakukan manual, karna bersifat semantik
+
+
+Note :
+
+- Hasil region map ada setelah 2. definisi fungsi helper, untuk maintenance jika mau ditambahkan daerah lain perlu ditambah juga untuk pemetaan daerah yang sesuai, termasuk jika ingin berupa kabupaten atau kecamatan, tidak hanya pencarian berdasarkan provinsi.
+
+- Hasil phrase map ada sebelum 2. definisi fungsi helper, phrasa harus diupdate berkala jika ditemukan kata yang kurang sesuai.
+
+- Penambahan korpus di sheet3
