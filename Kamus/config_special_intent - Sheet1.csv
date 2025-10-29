@@ -11,9 +11,7 @@ tampilkan semua,ALL
 berikan semua,ALL
 tidak direkomendasikan,RATING_BOTTOM
 tempat kemah jelek,RATING_BOTTOM
-tidakrekomen,RATING_BOTTOM
-tidakbagus,RATING_BOTTOM
-kurangbagus,RATING_BOTTOM
-tidakbersih,RATING_BOTTOM
-tidakramah,RATING_BOTTOM
-jangankesini,RATING_BOTTOM
+tidak cocok,RATING_BOTTOM
+tidak sesuai,RATING_BOTTOM
+worth it,RATING_TOP
+tidak worth it,RATING_BOTTOM
