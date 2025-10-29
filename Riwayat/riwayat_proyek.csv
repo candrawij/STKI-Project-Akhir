@@ -1,0 +1,10 @@
+timestamp,kategori_event,keterangan
+2025-10-29 09:53:18,Kandidat Region,Ditemukan 0 kata baru. Daftar disimpan di Kamus Mentah\kandidat_region.csv
+2025-10-29 09:54:02,Kandidat Phrase,Ditemukan 100 kata baru. Daftar disimpan di Kamus Mentah\kandidat_phrase.csv
+2025-10-29 09:54:02,Kandidat Rating Top,Ditemukan 50 kata baru. Daftar disimpan di Kamus Mentah\kandidat_intent_RATING_TOP.csv
+2025-10-29 09:54:02,Kandidat Rating Bottom,Ditemukan 50 kata baru. Daftar disimpan di Kamus Mentah\kandidat_intent_RATING_BOTTOM.csv
+2025-10-29 09:54:02,Kandidat Slang,Ditemukan 298 kata baru. Daftar disimpan di Kamus Mentah\kandidat_NonBaku.csv
+2025-10-29 10:12:02,Pemuatan Korpus,Memuat total 299 ulasan dari 1 file.
+2025-10-29 10:16:10,Pemuatan Korpus,Memuat total 299 ulasan dari 1 file.
+2025-10-29 10:46:10,Pemuatan Korpus,Memuat total 299 ulasan dari 1 file.
+2025-10-29 11:36:41,Pemuatan Korpus,Memuat total 299 ulasan dari 1 file.

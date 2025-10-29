@@ -1,6 +1,8 @@
 HASIL TESTING STKI TUGAS AKHIR 
 
-- pembuatan kamus dengan asisten jadi lebih praktis, tapi masih harus menginputkan kata lagi ke kamus secara manual
+- pembuatan kamus dengan asisten jadi lebih praktis, tapi masih harus menginputkan kata lagi ke kamus secara manual (bershikan duplikasi dan join)
+- masih ada kesalahan di kunci yang diproses
+- pengelompokan wilayah seperti pantai, bukit, dll masih membingungkan sistem, mencari dari vsm atau teks mentah tidak begitu akurat
 
 1.0
 - pembuatan mesin pencarian
@@ -31,6 +33,12 @@ HASIL TESTING STKI TUGAS AKHIR
 - hasil pengelompokan dijadikan file csv khusus di foleder kamus mentah
 - pencarian kata pada asisten sudah termasuk menghapus kata yang sudah dimasukan ke kamus, sehingga lebih efisien untuk input data
 
+1.5
+- periwayatan pencarian
+- perbaikan frasa yang beresiko menimbulkan kesalahan
+- efisiensi dan integrasi data
+- periwayatan penambahan data dan proses pada mesin pencarian
+
 
 RENCANA
 - pembuatan website
@@ -40,6 +48,6 @@ RENCANA
 - tanggal terakhir review
 - frekuensi dari baik, cukup, buruk
 - penggunaan atau, dan (multiple choice)
-- history pencarian
+- pencarian terbalik, jika cari tempat kemah, maka muncul query atau index apa saja di tempat itu
 
 berapa presentase keakuratan mesin ini

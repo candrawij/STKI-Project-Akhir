@@ -1,0 +1,11 @@
+timestamp,query_mentah,vsm_tokens_final,intent_terdeteksi,region_terdeteksi
+2025-10-29 8:11:37,tampilkan semua tempat kemah,tampil,ALL,None
+2025-10-29 8:12:06,tempat kemah yang ada di jogja,tempatkemah adaa,None,diy
+2025-10-29 8:12:32,tampilkan semua tempat kemah,tampil,ALL,None
+2025-10-29 8:13:38,tempat kemah yang sejuk dan bersih di jateng,tempatkemah sejuk bersih,None,jawa tengah
+2025-10-29 9:16:16,tempat kemah yang dekat dengan pantai,tempatkemah dentidakn pantai,None,None
+2025-10-29 10:17:16,tempat kemah yang dekat dengan pantai,tempatkemah dentidakn pantai,None,None
+2025-10-29 10:47:30,tempat kemah yang dekat dengan laut,tempatkemah laut,None,None
+2025-10-29 10:48:01,tempat kemah yang dekat dengan pantai,tempatkemah pantai,None,None
+2025-10-29 10:56:34,tempat kemah  yang ada di jogja yang dekat dengan laut,tempatkemah laut,None,diy
+2025-10-29 10:57:11,"tempat kemah di jawa tengah yang memiliki suasana sejuk, nyaman, dan bersih",tempatkemah milik suasana sejuk nyaman bersih,None,jawa tengah2025-10-29 11:37:38,tempat kemah terbaik di jateng,kemah,RATING_TOP,jawa tengah
